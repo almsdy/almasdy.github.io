@@ -3,7 +3,7 @@ package lab_3;
 import java.util.Scanner;
 
 /**
- * Created by user on 25/01/2022.
+ ** Created by Ahmed Al masadi on 25/01/2022.
  */
 public class TestSinglyList {
     public static void main(String[] args) {

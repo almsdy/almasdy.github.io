@@ -1,7 +1,7 @@
 package lab_3;
 
 /**
- * Created by user on 25/01/2022.
+ * Created by Ahmed Al masadi on 25/01/2022.
  */
 public class SinglyLinkedList<E> {
     private Node<E> head=null;
